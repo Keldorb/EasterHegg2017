@@ -11,6 +11,7 @@ Dieses git soll als Resourcen sammlung für den Easter Hegg 2017 WebPentesting W
   --> DO IT!
   
   Offical Website:
+  
   https://www.kali.org/
   
   Image Direct Link:
@@ -33,6 +34,7 @@ Dieses git soll als Resourcen sammlung für den Easter Hegg 2017 WebPentesting W
   immer noch verwendbar.
   
   Offical Website:
+  
   https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
   
   Image Direct Link:

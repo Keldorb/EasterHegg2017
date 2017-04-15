@@ -6,7 +6,9 @@ Dieses git soll als Ressourcen Sammlung für den Easter Hegg 2017 WebPentesting 
 
 --------------------------------------
 1. Needed Components
+
   Kali Linux
+  
   Diese Linux Distribution stellt alle benötigten Tools die ich während der Demo verwende zur Verfügung.
   Die verwendeten Tools sind auch auf anderen Distributionen installierbar. Wer also etwas anderes nutzen möchte 
   --> DO IT!

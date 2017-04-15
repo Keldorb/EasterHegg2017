@@ -51,10 +51,15 @@ Dieses git soll als Ressourcen Sammlung für den Easter Hegg 2017 WebPentesting 
 2. Links zu den einzelnen Topics
 
   OWASP TOP 10
+  
     2013: 
+    
       ENG: https://www.owasp.org/images/f/f8/OWASP_Top_10_-_2013.pdf
+      
       DE: https://www.owasp.org/images/4/42/OWASP_Top_10_2013_DE_Version_1_0.pdf
+      
     2017:
+    
       ENG: https://github.com/OWASP/Top10/raw/master/2017/OWASP%20Top%2010%20-%202017%20RC1-English.pdf
       
 ----------------------------------------------------

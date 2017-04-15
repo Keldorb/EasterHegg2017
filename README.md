@@ -65,6 +65,7 @@ Dieses git soll als Ressourcen Sammlung für den Easter Hegg 2017 WebPentesting 
     Da ich selbst noch nicht alle Schwachstellen durchgetestet habe (es sind wirklich viele) kann ich euch aus dem Stand nicht sofort       alle Lösungen liefern. Falls ihr eine Lösung gefunden habt, die sonst im Internet schlecht bis gar nicht Dokumentiert ist, könnt ihr     mir diese über keldorb@gmail.com zukommen lassen. Ich werde diese dann aufbereiten und öffentlich zur Verfügung stellen (ein link zu     eurem Blog Post geht natürlich auch).
     
     Folgende Lösungen kann ich euch präsentieren:
+    
       WebGoat.net
         Exploiting SQL Injection
         File Download Path Manipulation

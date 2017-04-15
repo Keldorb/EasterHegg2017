@@ -60,6 +60,7 @@ Dieses git soll als Ressourcen Sammlung für den Easter Hegg 2017 WebPentesting 
 ----------------------------------------------------
 
 3. Lösungen der OWASP BWA
+
     Nach der Präsentation werdet ihr Zeit haben selbst ein wenig an den Maschinen zu hacken. Ihr könnt entweder das dort gezeigte 
     selbst einmal ausprobieren oder auch alles hacken was auf den Servern angeboten wird.
     Da ich selbst noch nicht alle Schwachstellen durchgetestet habe (es sind wirklich viele) kann ich euch aus dem Stand nicht sofort       alle Lösungen liefern. Falls ihr eine Lösung gefunden habt, die sonst im Internet schlecht bis gar nicht Dokumentiert ist, könnt ihr     mir diese über keldorb@gmail.com zukommen lassen. Ich werde diese dann aufbereiten und öffentlich zur Verfügung stellen (ein link zu     eurem Blog Post geht natürlich auch).

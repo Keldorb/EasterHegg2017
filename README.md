@@ -93,12 +93,13 @@ Dieses git soll als Ressourcen Sammlung für den Easter Hegg 2017 WebPentesting 
         Challenges
           Cross Site Scripting 1
           
-      OWASP Bricks
+      OWASP Bricks:
       
         Login Pages 
           Login #1
         Content Pages
           Content Page #1
+     
      ...
      ..
      . to be continued

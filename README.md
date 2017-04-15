@@ -72,23 +72,29 @@ Dieses git soll als Ressourcen Sammlung für den Easter Hegg 2017 WebPentesting 
     
     Folgende Lösungen kann ich euch präsentieren:
     
-      WebGoat.net: Exploiting SQL Injection, File Download Path Manipulation
+      WebGoat.net: 
+      
+        Exploiting SQL Injection
+        File Download Path Manipulation
+        
       Security Shepherd:
       
         Lessons:
           Broken Session Managment
           Cross Site Requst Forgery
-         Cross Site Scripting
-         Failure to Restrict URL Access
-         Insecure Cryptographic Storage
-         Insecure Direct Object References
-         Poor Data Valdiation
-         Security Misconfiguration
-         SQL Injection
+          Cross Site Scripting
+          Failure to Restrict URL Access
+          Insecure Cryptographic Storage
+          Insecure Direct Object References
+          Poor Data Valdiation
+          Security Misconfiguration
+          SQL Injection
           Unvalidated Redirects and Forwards
         Challenges
           Cross Site Scripting 1
+          
       OWASP Bricks
+      
         Login Pages 
           Login #1
         Content Pages
